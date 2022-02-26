@@ -11,3 +11,8 @@
     --black: #333;
     --white: #fff;
 }
+
+header {
+    position: fixed;
+    top: 0;
+}
