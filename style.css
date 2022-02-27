@@ -47,3 +47,7 @@ header {
     background-position: center;
     cursor: pointer;
 }
+
+.menuToggle.active {
+    background: url(images/close.png);
+}
