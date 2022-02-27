@@ -40,5 +40,6 @@ header {
 .menuToggle {
     position: relative;
     background: url(images/menu.png);
-  
+    width: 30px;
+    height: 30px;
 }
