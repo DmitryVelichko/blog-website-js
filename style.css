@@ -22,4 +22,6 @@ header {
     justify-content: space-between;
     align-items: center;
     background: var(--white);
+    z-index: 1000;
+    border-bottom: 1px solid #000;
 }
