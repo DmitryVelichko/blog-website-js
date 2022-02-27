@@ -50,4 +50,6 @@ header {
 
 .menuToggle.active {
     background: url(images/close.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
 }
