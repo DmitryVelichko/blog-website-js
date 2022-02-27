@@ -31,4 +31,6 @@ header {
     display: inline-block;
     color: var(--black);
     text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 500;
 }
