@@ -12,11 +12,6 @@
     --white: #fff;
 }
 
-body {
-    min-height: 150vh;
-    background: #f8f8f8;
-}
-
 header {
     position: fixed;
     top: 0;
@@ -63,4 +58,10 @@ header.sticky {
     background-size: 25px;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
 }
