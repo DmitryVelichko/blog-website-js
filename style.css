@@ -32,7 +32,9 @@ header {
     transition: 0.5s;
 }
 
-
+header.sticky {
+    padding: 10px 100px;
+}
 
 .logo {
     position: relative;
