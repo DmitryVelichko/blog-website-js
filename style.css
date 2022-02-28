@@ -12,6 +12,11 @@
     --white: #fff;
 }
 
+body {
+    min-height: 150vh;
+    background: #f8f8f8;
+}
+
 header {
     position: fixed;
     top: 0;
