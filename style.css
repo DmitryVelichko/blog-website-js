@@ -77,6 +77,11 @@ header.sticky {
   visibility: hidden;
 }
 
+.navigation.active {
+  opacity: 1;
+  visibility: visible;
+}
+
 .navigation li {
   list-style: none;
   margin: 10px 0;
