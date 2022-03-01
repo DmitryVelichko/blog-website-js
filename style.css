@@ -83,4 +83,6 @@ header.sticky {
   font-size: 1.2em;
   letter-spacing: 4px;
   display: inline-block;
+  font-weight: 500;
+  text-decoration: none;
 }
