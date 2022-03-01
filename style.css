@@ -81,4 +81,6 @@ header.sticky {
 .navigation li a {
   color: var(--black);
   font-size: 1.2em;
+  letter-spacing: 4px;
+  display: inline-block;
 }
