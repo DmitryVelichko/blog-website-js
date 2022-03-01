@@ -96,3 +96,9 @@ header.sticky {
   text-decoration: none;
   text-transform: uppercase;
 }
+
+section {
+  position: relative;
+  padding: 100px;
+  width: 100%;
+}
