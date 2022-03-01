@@ -73,6 +73,8 @@ header.sticky {
   flex-direction: column;
   z-index: 1000;
   transition: 0.25s;
+  opacity: 0;
+  visibility: hidden;
 }
 
 .navigation li {
