@@ -136,4 +136,7 @@ section {
   font-weight: 500;
   color: var(--black);
   letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+  
 }
