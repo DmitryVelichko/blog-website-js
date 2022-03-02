@@ -104,3 +104,8 @@ section {
   min-height: 100vh;
   background: var(--white);
 }
+
+.cover {
+  position: absolute;
+  top: 0;
+}
