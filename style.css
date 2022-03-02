@@ -122,5 +122,6 @@ section {
 
 .banner .contentBx {
   position: relative;
-  
+  z-index: 1;
+  background: var(--white);
 }
