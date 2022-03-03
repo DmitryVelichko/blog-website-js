@@ -138,5 +138,9 @@ section {
   letter-spacing: 2px;
   text-align: center;
   text-transform: uppercase;
-  
+}
+
+.banner .contentBx h4 {
+  font-size: 1.2em;
+  font-weight: 300;
 }
