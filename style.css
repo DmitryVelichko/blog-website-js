@@ -154,4 +154,6 @@ section {
   display: inline-block;
   padding: 8px 20px;
   margin-top: 20px;
+  border: 2px solid var(--black);
+  color: var(--black);
 }
