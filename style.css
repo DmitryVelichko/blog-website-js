@@ -145,4 +145,6 @@ section {
   font-weight: 300;
   letter-spacing: 4px;
   text-align: center;
+  text-transform: uppercase;
+  color: var(--black);
 }
