@@ -148,3 +148,8 @@ section {
   text-transform: uppercase;
   color: var(--black);
 }
+
+.btn {
+  position: absolute;
+  display: inline-block;
+}
