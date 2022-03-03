@@ -163,3 +163,8 @@ section {
   text-transform: uppercase;
   transition: 0.25s;
 }
+
+.btn:hover {
+  color: var(--white);
+  background: var(--black);
+}
