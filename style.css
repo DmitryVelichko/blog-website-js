@@ -189,4 +189,6 @@ section {
 
 .title h2:before {
   content: '';
+  position: absolute;
+  bottom: -10px;
 }
