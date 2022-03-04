@@ -184,4 +184,9 @@ section {
   letter-spacing: 2px;
   font-size: 1.4em;
   text-transform: uppercase;
+  color: var(--black);
+}
+
+.title h2:before {
+  content: '';
 }
