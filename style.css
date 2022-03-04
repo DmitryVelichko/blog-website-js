@@ -180,5 +180,6 @@ section {
 
 .title h2 {
   position: relative;
-  
+  font-weight: 500;
+  letter-spacing: 2px;
 }
