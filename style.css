@@ -182,4 +182,6 @@ section {
   position: relative;
   font-weight: 500;
   letter-spacing: 2px;
+  font-size: 1.4em;
+  text-transform: uppercase;
 }
