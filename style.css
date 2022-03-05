@@ -203,3 +203,8 @@ p {
   font-weight: 300;
   text-align: justify;
 }
+
+.about .contentBx {
+  position: relative;
+  margin-top: 40px;
+}
