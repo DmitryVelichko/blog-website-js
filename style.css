@@ -198,6 +198,10 @@ section {
   background: var(--black);
 }
 
+.title p {
+  margin-top: 40px;
+}
+
 p {
   color: var(--black);
   font-weight: 300;
