@@ -207,4 +207,6 @@ p {
 .about .contentBx {
   position: relative;
   margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
