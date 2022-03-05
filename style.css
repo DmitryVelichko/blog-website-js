@@ -209,4 +209,13 @@ p {
   margin-top: 40px;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
+}
+
+.about .contentBx .content {
+  position: relative;
+}
+
+.about .contentBx .content .imgBx {
+  min-height: 400px;
 }
