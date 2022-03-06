@@ -225,3 +225,7 @@ p {
 .about .contentBx .content .imgBx {
   min-height: 400px;
 }
+
+.post {
+  position: relative;
+}
