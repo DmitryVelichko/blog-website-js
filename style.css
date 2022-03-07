@@ -264,4 +264,6 @@ p {
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
+  flex-direction: column;
+  transform: 0.25s;
 }
