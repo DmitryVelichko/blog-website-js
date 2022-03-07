@@ -252,3 +252,8 @@ p {
 .post .contentBx .postColumn .postBox.extraHeight {
   height: 600px;
 }
+
+.post .contentBx .postColumn .postBox .textBx {
+  position: absolute;
+  top: 0;
+}
