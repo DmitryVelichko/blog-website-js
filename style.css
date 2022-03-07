@@ -267,3 +267,8 @@ p {
   flex-direction: column;
   transform: 0.25s;
 }
+
+.post .contentBx .postColumn .postBox .textBx h3 {
+  font-weight: 400;
+  font-size: 1em;
+}
