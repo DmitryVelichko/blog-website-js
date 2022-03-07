@@ -262,4 +262,6 @@ p {
   background: var(--white);
   padding: 20px;
   display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
 }
