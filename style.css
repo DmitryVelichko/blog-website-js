@@ -279,4 +279,6 @@ p {
 .post .contentBx .postColumn .postBox .textBx .btn {
   padding: 4px 10px;
   background: var(--black);
+  color: var(--white);
+  font-weight: 300;
 }
