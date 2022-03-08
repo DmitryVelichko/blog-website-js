@@ -275,3 +275,8 @@ p {
   letter-spacing: 1px;
   color: var(--black);
 }
+
+.post .contentBx .postColumn .postBox .textBx .btn {
+  padding: 4px 10px;
+  background: var(--black);
+}
