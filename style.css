@@ -270,7 +270,10 @@ p {
   visibility: hidden;
 }
 
-
+.post .contentBx .postColumn .postBox:hover .textBx {
+  opacity: 1;
+  visibility: visible;
+}
 
 .post .contentBx .postColumn .postBox .textBx h3 {
   font-weight: 400;
