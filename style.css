@@ -265,13 +265,13 @@ p {
   justify-content: flex-end;
   align-items: flex-start;
   flex-direction: column;
-  transform: 0.25s;
+  transition: 0.25s;
   opacity: 0;
   visibility: hidden;
 }
 
 .post .contentBx .postColumn .postBox:hover .textBx {
-  opacity: 1;
+  opacity: 0.9;
   visibility: visible;
 }
 
