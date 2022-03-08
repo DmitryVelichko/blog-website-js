@@ -266,8 +266,11 @@ p {
   align-items: flex-start;
   flex-direction: column;
   transform: 0.25s;
- 
+  opacity: 0;
+  visibility: hidden;
 }
+
+
 
 .post .contentBx .postColumn .postBox .textBx h3 {
   font-weight: 400;
@@ -281,4 +284,5 @@ p {
   background: var(--black);
   color: var(--white);
   font-weight: 300;
+  font-size: 1em;
 }
