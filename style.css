@@ -321,4 +321,10 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 20px;
 } 
+
+.contact .contactForm .row input,
+.contact .contactForm .row2 textarea {
+  width: 100%;
+}
