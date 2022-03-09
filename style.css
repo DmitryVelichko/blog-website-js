@@ -328,5 +328,8 @@ p {
 .contact .contactForm .row2 textarea {
   width: 100%;
   padding: 10px;
-  border: none;
+  border: 1px solid var(--black);
+  outline: none;
+  background: var(--white);
+  color: var(--black);
 }
