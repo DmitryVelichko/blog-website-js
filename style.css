@@ -293,3 +293,8 @@ p {
 .mgt60 {
   margin-top: 60px;
 }
+
+.contact {
+  display: flex;
+  justify-content: center;
+}
