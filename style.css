@@ -340,8 +340,14 @@ p {
 
 .contact .contactForm .row2 textarea {
   height: 200px;
+  /* resize: none; */
 }
 
 ::placeholder {
+  color: var(--black);
+}
+
+.contact .contactForm .row2 input[type=submit] {
+  background: var(--white);
   color: var(--black);
 }
