@@ -358,3 +358,8 @@ p {
   background: var(--black);
   color: var(--white);
 }
+
+footer {
+  padding: 100px;
+  display: flex;
+}
