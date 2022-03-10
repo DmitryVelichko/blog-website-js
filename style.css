@@ -332,4 +332,6 @@ p {
   outline: none;
   background: var(--white);
   color: var(--black);
+  font-size: 16px;
+  font-weight: 500;
 }
