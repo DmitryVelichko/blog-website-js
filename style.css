@@ -350,4 +350,6 @@ p {
 .contact .contactForm .row2 input[type=submit] {
   background: var(--white);
   color: var(--black);
+  border: 2px solid var(--black);
+  cursor: pointer;
 }
