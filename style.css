@@ -412,4 +412,8 @@ footer .footerMenu li a {
   .about .contentBx {
     grid-template-columns: repeat(1, 1fr);
   }
+
+  .post .contentBx .postColumn .postBox {
+    height: 300px;
+  }
 }
