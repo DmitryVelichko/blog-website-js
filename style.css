@@ -396,4 +396,8 @@ footer .footerMenu li a {
   header {
     padding: 20px 20px;
   }
+
+  header.sticky {
+    padding: 10px 20px;
+  }
 }
