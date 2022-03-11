@@ -417,4 +417,8 @@ footer .footerMenu li a {
   .post .contentBx .postColumn .postBox.postBox.extraHeight {
     height: 300px;
   }
+
+  footer {
+    padding: 40px 20px;
+  }
 }
