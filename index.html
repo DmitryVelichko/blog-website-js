@@ -14,10 +14,10 @@
     </header>
 
     <ul class="navigation">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#post">Post</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#home" onclick="toggleMenu();">Home</a></li>
+        <li><a href="#about" onclick="toggleMenu();">About</a></li>
+        <li><a href="#post" onclick="toggleMenu();">Post</a></li>
+        <li><a href="#contact" onclick="toggleMenu();">Contact</a></li>
     </ul>
 
     <!-- Banner -->
@@ -202,6 +202,11 @@
             const header = document.querySelector('header');
             header.classList.toggle('sticky', window.scrollY > 0);
         })
+
+        // Close menu
+
+
+
     </script>
 </body>
 </html>
