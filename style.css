@@ -404,4 +404,8 @@ footer .footerMenu li a {
   section {
     padding: 20px;
   }
+
+  .banner .contentBx {
+    padding: 40px 30px;
+  }
 }
