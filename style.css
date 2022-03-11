@@ -391,3 +391,9 @@ footer .footerMenu li a {
   text-align: center;
   letter-spacing: 1px;
 }
+
+@media (max-width: 991px) {
+  header {
+    padding: 20px 20px;
+  }
+}
