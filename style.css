@@ -400,4 +400,8 @@ footer .footerMenu li a {
   header.sticky {
     padding: 10px 20px;
   }
+
+  section {
+    padding: 20px;
+  }
 }
